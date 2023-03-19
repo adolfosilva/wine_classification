@@ -1,0 +1,14 @@
+auto_sklearn==0.15.0
+Automunge==8.32
+imbalanced_learn==0.10.1
+imblearn==0.0
+ipython==8.11.0
+lime==0.2.0.1
+matplotlib==3.5.3
+mlxtend==0.21.0
+numpy==1.23.2
+pandas==1.4.4
+scikit_learn==1.2.2
+scipy==1.9.1
+seaborn==0.12.2
+shap==0.41.0
